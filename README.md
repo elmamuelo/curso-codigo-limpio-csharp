@@ -1,2 +1,2 @@
-# curso-codigo-limpio-csharp
-La rama principal tiene un proyecto de consola funcional y la rama de buenas practicas tiene las respectivas mejoras
+## Código base para completar el curso de buenas prácticas y código limpio en C#
+Debe descargar el codigo y usar el branch master o 0-codigobase
